@@ -1,5 +1,6 @@
 # Proyecto final de analisis y sistemas
-- Lisbeth Mendoza 2021 1072
+- Lisbeth Mendoza 2021-1072
+- Brian Fajardo 2021-1227
 - Lizandro
 - "UCATECI"
 
@@ -49,7 +50,7 @@ Te permite utilizarlo como un servidor atravez de contenedores por separado.
  #
 
  # Video
- [https://miucateciedu-my.sharepoint.com/:v:/g/personal/20211072_miucateci_edu_do/Ef1RBO5ILy9HrcXpcQFHhEkB9zWDFcGwK8cyhGDIFhgQSA?e=UeWDKm]
+ https://miucateciedu-my.sharepoint.com/:v:/g/personal/20211072_miucateci_edu_do/Ef1RBO5ILy9HrcXpcQFHhEkB9zWDFcGwK8cyhGDIFhgQSA?e=UeWDKm
  #
  
 ## Problemas
